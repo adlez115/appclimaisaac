@@ -1,0 +1,20 @@
+
+.temp{
+    font-weight: bold;
+}
+.humidity{
+    font-weight: bold;
+    color:gray;
+}
+.weather-icon{
+    font-size: 2rem;
+}
+.city{
+    font-weight: bold;
+    font-size: 3rem;
+}
+.card{
+    font-family: Roboto;
+    border-width: 8px;
+    border-color: rgb(15, 93, 93);
+}
